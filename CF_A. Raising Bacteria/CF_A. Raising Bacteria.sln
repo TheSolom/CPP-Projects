@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CF_A. Raising Bacteria", "CF_A. Raising Bacteria\CF_A. Raising Bacteria.vcxproj", "{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}.Debug|x64.ActiveCfg = Debug|x64
+		{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}.Debug|x64.Build.0 = Debug|x64
+		{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}.Debug|x86.Build.0 = Debug|Win32
+		{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}.Release|x64.ActiveCfg = Release|x64
+		{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}.Release|x64.Build.0 = Release|x64
+		{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}.Release|x86.ActiveCfg = Release|Win32
+		{29483A03-D4EB-41C9-9D7E-3B74BB3BF5A0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C77D15-62E2-41EA-94A3-5DD8177C03EA}
+	EndGlobalSection
+EndGlobal

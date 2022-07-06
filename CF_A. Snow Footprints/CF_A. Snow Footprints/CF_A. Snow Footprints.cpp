@@ -3,32 +3,56 @@ using namespace std;
 
 int main()
 {
-    int n;
-    cin >> n;
-    string s;
-    cin >> s;
+	int n;
+	cin >> n;
+	string s;
+	cin >> s;
 
-    int first = 0, final = 0, flag = 0;
-    for (int i = 0; i < n; i++)
-    {
-        if (s[i] != '.' && flag == 0)
-        {
-            first = i + 1;
-            flag = 1;
-        }
+	//determine first and last positions
+	int fst = 0;
+	int lst = 0;
 
-        if (s[i] == '.' && flag == 1)
-        {
-            final = i;
-            break;
-        }
-    }
+	//Find first non . character
+	for (int i = 0; i < n; ++i)
+	{
+		if (s[i] != '.')
+		{
+			fst = i + 1;
+			break;
+		}
+	}
+	//Find last non . character
+	for (int i = n - 1; i >= 0; --i)
+	{
+		if (s[i] != '.')
+		{
+			lst = i + 1;
+			break;
+		}
+	}
 
-    int rem = first - 1;
-    if (rem <= -1)
-    {
-        rem = 0;
-    }
+	//we have 3 cases: RRRRRRRRRR, LLLLLLLLLL, RRRRRRRRLLLLLL
 
-    cout << final - first << " " << (final - first + 1) / 2 + rem;
+	if (s[fst - 1] == 'R' && s[lst - 1] == 'R')
+		cout << fst << " " << lst + 1 << endl;	// +1 for position shifting
+
+	else
+
+		if (s[fst - 1] == 'L' && s[lst - 1] == 'L')
+			cout << lst << " " << fst - 1 << endl;
+
+	else 
+	if (s[fst - 1] == 'R' && s[lst - 1] == 'L')
+	{
+				//Find the position of flip from R to L
+		int i;
+		for (i = fst - 1; i < n; ++i)
+		{
+			if (s[i] == 'L')
+				break;
+		}
+
+		cout << fst << " " << i + 1 - 1 << endl;
+	}
+
 }

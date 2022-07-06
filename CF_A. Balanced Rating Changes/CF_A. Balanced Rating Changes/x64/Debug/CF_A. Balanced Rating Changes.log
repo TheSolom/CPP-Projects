@@ -1,0 +1,5 @@
+﻿  CF_A. Balanced Rating Changes.cpp
+C:\Users\eslam\source\repos\CF_A. Balanced Rating Changes\CF_A. Balanced Rating Changes\CF_A. Balanced Rating Changes.cpp(15,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\eslam\source\repos\CF_A. Balanced Rating Changes\CF_A. Balanced Rating Changes\CF_A. Balanced Rating Changes.cpp(20,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\eslam\source\repos\CF_A. Balanced Rating Changes\CF_A. Balanced Rating Changes\CF_A. Balanced Rating Changes.cpp(25,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CF_A. Balanced Rating Changes.vcxproj -> C:\Users\eslam\source\repos\CF_A. Balanced Rating Changes\x64\Debug\CF_A. Balanced Rating Changes.exe
