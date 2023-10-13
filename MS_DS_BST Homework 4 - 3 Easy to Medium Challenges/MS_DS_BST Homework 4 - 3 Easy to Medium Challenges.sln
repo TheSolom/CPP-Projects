@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MS_DS_BST Homework 4 - 3 Easy to Medium Challenges", "MS_DS_BST Homework 4 - 3 Easy to Medium Challenges.vcxproj", "{BED6F977-3F73-4969-8C6D-72B1228A3A5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED6F977-3F73-4969-8C6D-72B1228A3A5E}.Debug|x64.ActiveCfg = Debug|x64
+		{BED6F977-3F73-4969-8C6D-72B1228A3A5E}.Debug|x64.Build.0 = Debug|x64
+		{BED6F977-3F73-4969-8C6D-72B1228A3A5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{BED6F977-3F73-4969-8C6D-72B1228A3A5E}.Debug|x86.Build.0 = Debug|Win32
+		{BED6F977-3F73-4969-8C6D-72B1228A3A5E}.Release|x64.ActiveCfg = Release|x64
+		{BED6F977-3F73-4969-8C6D-72B1228A3A5E}.Release|x64.Build.0 = Release|x64
+		{BED6F977-3F73-4969-8C6D-72B1228A3A5E}.Release|x86.ActiveCfg = Release|Win32
+		{BED6F977-3F73-4969-8C6D-72B1228A3A5E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C2D7872-1EE2-4ADA-B03F-DB92678A5579}
+	EndGlobalSection
+EndGlobal

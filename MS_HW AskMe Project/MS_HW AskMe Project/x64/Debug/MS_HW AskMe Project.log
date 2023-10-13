@@ -1,0 +1,17 @@
+﻿  MS_HW AskMe Project.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(242,54): warning C4267: 'initializing': conversion from 'size_t' to '_Ty2', possible loss of data
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\eslam\source\repos\MS_HW AskMe Project\MS_HW AskMe Project\MS_HW AskMe Project.cpp(242,21): message : see reference to function template instantiation 'std::pair<const std::string,int>::pair<_Ty&,unsigned __int64,0>(_Other1,_Other2 &&) noexcept(false)' being compiled
+          with
+          [
+              _Ty=std::string,
+              _Other1=std::string &,
+              _Other2=unsigned __int64
+          ]
+C:\Users\eslam\source\repos\MS_HW AskMe Project\MS_HW AskMe Project\MS_HW AskMe Project.cpp(242,20): message : see the first reference to 'std::pair<const std::string,int>::pair' in 'Question::print_questions_to_me'
+C:\Users\eslam\source\repos\MS_HW AskMe Project\MS_HW AskMe Project\MS_HW AskMe Project.cpp(145): warning C4715: 'users_manager::access_system': not all control paths return a value
+C:\Users\eslam\source\repos\MS_HW AskMe Project\MS_HW AskMe Project\MS_HW AskMe Project.cpp(113): warning C4715: 'User::getAQ': not all control paths return a value
+  MS_HW AskMe Project.vcxproj -> C:\Users\eslam\source\repos\MS_HW AskMe Project\x64\Debug\MS_HW AskMe Project.exe

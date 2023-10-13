@@ -1,0 +1,6 @@
+﻿  MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges.cpp
+C:\Users\eslam\Downloads\Mostafa Saad\19 Project #3\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges.cpp(43,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\Downloads\Mostafa Saad\19 Project #3\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges.cpp(65,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\Downloads\Mostafa Saad\19 Project #3\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges.cpp(89,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\Downloads\Mostafa Saad\19 Project #3\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges.cpp(266,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges.vcxproj -> C:\Users\eslam\Downloads\Mostafa Saad\19 Project #3\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges\x64\Debug\MS_DS_Heap Homework 2 - 4 Medium to Hard Challenges.exe

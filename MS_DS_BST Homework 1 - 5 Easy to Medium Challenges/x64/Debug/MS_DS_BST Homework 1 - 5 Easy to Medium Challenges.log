@@ -1,0 +1,4 @@
+﻿  MS_DS_BST Homework 1 - 5 Easy to Medium Challenges.cpp
+C:\Users\eslam\source\repos\MS_DS_BST Homework 1 - 5 Easy to Medium Challenges\MS_DS_BST Homework 1 - 5 Easy to Medium Challenges.cpp(32,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\eslam\source\repos\MS_DS_BST Homework 1 - 5 Easy to Medium Challenges\MS_DS_BST Homework 1 - 5 Easy to Medium Challenges.cpp(158): warning C4715: 'BinarySearchTree::path': not all control paths return a value
+  MS_DS_BST Homework 1 - 5 Easy to Medium Challenges.vcxproj -> C:\Users\eslam\source\repos\MS_DS_BST Homework 1 - 5 Easy to Medium Challenges\x64\Debug\MS_DS_BST Homework 1 - 5 Easy to Medium Challenges.exe

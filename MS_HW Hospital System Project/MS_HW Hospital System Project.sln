@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MS_HW Hospital System Project", "MS_HW Hospital System Project\MS_HW Hospital System Project.vcxproj", "{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}.Debug|x64.ActiveCfg = Debug|x64
+		{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}.Debug|x64.Build.0 = Debug|x64
+		{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}.Debug|x86.ActiveCfg = Debug|Win32
+		{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}.Debug|x86.Build.0 = Debug|Win32
+		{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}.Release|x64.ActiveCfg = Release|x64
+		{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}.Release|x64.Build.0 = Release|x64
+		{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}.Release|x86.ActiveCfg = Release|Win32
+		{AA2E709E-EB9C-49F4-A9B9-2C6EE1084F31}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E5C25B-6503-41E0-B09C-E96BFCDE178A}
+	EndGlobalSection
+EndGlobal
