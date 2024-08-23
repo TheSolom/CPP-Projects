@@ -1,0 +1,78 @@
+﻿  MS_Algo_HW Sorting Homework 3 -  3 Hard Challenges.cpp
+C:\Users\eslam\source\repos\MS_Algo_HW Sorting Homework 3 -  3 Hard Challenges\MS_Algo_HW Sorting Homework 3 -  3 Hard Challenges.cpp(97): error C4716: 'largest_area': must return a value
+
+Project Performance Summary:
+      836 ms  C:\Users\eslam\source\repos\MS_Algo_HW Sorting Homework 3 -  3 Hard Challenges\MS_Algo_HW Sorting Homework 3 -  3 Hard Challenges.vcxproj   1 calls
+                836 ms  Build                                      1 calls
+
+Target Performance Summary:
+        0 ms  BeforeBuildGenerateSources                 1 calls
+        0 ms  SelectClCompile                            1 calls
+        0 ms  PreBuildEvent                              1 calls
+        0 ms  _SelectedFiles                             1 calls
+        0 ms  SelectCustomBuild                          1 calls
+        0 ms  ComputeCustomBuildOutput                   1 calls
+        0 ms  _Xsd                                       1 calls
+        0 ms  MakeDirsForMidl                            1 calls
+        0 ms  ComputeMIDLGeneratedCompileInputs          1 calls
+        0 ms  AfterMidl                                  1 calls
+        0 ms  _Midl                                      1 calls
+        0 ms  AfterBuildGenerateSources                  1 calls
+        0 ms  AfterBuildGenerateSourcesEvent             1 calls
+        0 ms  _BuildGenerateSourcesAction                1 calls
+        0 ms  BuildGenerateSources                       1 calls
+        0 ms  BuildCompileTraverse                       1 calls
+        0 ms  BeforeClCompile                            1 calls
+        0 ms  ComputeCLInputPDBName                      1 calls
+        0 ms  FindReferenceAssembliesForReferences       1 calls
+        0 ms  GetReferencedVCProjectsInfo                1 calls
+        0 ms  ComputeReferenceCLInput                    1 calls
+        0 ms  WarnCompileDuplicatedFilename              1 calls
+        0 ms  BuildGenerateSourcesTraverse               1 calls
+        0 ms  ComputeStdModulesCompileInputs             1 calls
+        0 ms  FixupCLCompileOptions                      1 calls
+        0 ms  AfterResolveReferences                     1 calls
+        0 ms  _PrepareForReferenceResolution             1 calls
+        0 ms  BeforeResolveReferences                    1 calls
+        0 ms  IgnoreJavaScriptOutputAssembly             1 calls
+        0 ms  _SplitProjectReferencesByFileExistence     1 calls
+        0 ms  _AddOutputPathToGlobalPropertiesToRemove   1 calls
+        0 ms  PrepareProjectReferences                   1 calls
+        0 ms  ResolveProjectReferences                   1 calls
+        0 ms  ResolveReferences                          1 calls
+        0 ms  GetReferenceAssemblyPaths                  1 calls
+        0 ms  GetFrameworkPaths                          1 calls
+        0 ms  GetResolvedWinMD                           1 calls
+        0 ms  _CheckWindowsSDKInstalled                  1 calls
+        0 ms  SetCABuildNativeEnvironmentVariables       1 calls
+        0 ms  ResolveSDKReferences                       1 calls
+        0 ms  ExpandSDKReferences                        1 calls
+        0 ms  ResolveAssemblyReferences                  1 calls
+        0 ms  SetBuildDefaultEnvironmentVariables        1 calls
+        1 ms  _PrepareForBuild                           1 calls
+        1 ms  CopyFileToFolders                          1 calls
+        1 ms  AddExternalIncludDirectoriesToPaths        1 calls
+        2 ms  AssignProjectConfiguration                 1 calls
+        4 ms  SetTelemetryEnvironmentVariables           1 calls
+        4 ms  InitializeBuildStatus                      1 calls
+        5 ms  CustomBuild                                1 calls
+        6 ms  MakeDirsForCl                              1 calls
+        9 ms  PrepareForBuild                            1 calls
+       15 ms  _CheckForInvalidConfigurationAndPlatform   1 calls
+       25 ms  _GetProjectReferenceTargetFrameworkProperties   1 calls
+      758 ms  ClCompile                                  1 calls
+
+Task Performance Summary:
+        0 ms  MSBuild                                    1 calls
+        0 ms  SetRidAgnosticValueForProjects             1 calls
+        0 ms  WriteLinesToFile                           1 calls
+        0 ms  Touch                                      1 calls
+        1 ms  ReadLinesFromFile                          1 calls
+        1 ms  MakeDir                                    5 calls
+        1 ms  SetEnv                                    11 calls
+        2 ms  VCMessage                                  1 calls
+        2 ms  AssignProjectConfiguration                 1 calls
+        2 ms  CheckVCToolsetVersion                      1 calls
+        3 ms  Message                                    2 calls
+        6 ms  GetOutOfDateItems                          3 calls
+      756 ms  CL                                         1 calls

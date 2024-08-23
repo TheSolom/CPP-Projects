@@ -1,4 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (USACO_Bronze_Simulation.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  USACO_Bronze_Simulation_1_2.cpp
-C:\Users\eslam\source\repos\USACO_Bronze_Simulation\USACO_Bronze_Simulation_1_2.cpp(658,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  USACO_Bronze_Simulation.vcxproj -> C:\Users\eslam\source\repos\USACO_Bronze_Simulation\x64\Debug\USACO_Bronze_Simulation_1,2.exe
